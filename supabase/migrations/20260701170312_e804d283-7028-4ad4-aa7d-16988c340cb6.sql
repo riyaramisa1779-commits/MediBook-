@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.enforce_appointment_update_perms() FROM PUBLIC, anon, authenticated;
